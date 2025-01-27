@@ -1,6 +1,6 @@
 # Bridge Mario
 
-Bridge Mario is an engaging and minimalist browser game where players take on the role of a ninja, aiming to cross platforms by stretching a stick of the right length. A perfect stick placement doubles your score, adding an element of strategy and precision.
+Bridge Mario is an engaging and minimalist browser game where players take on the role of a mario, aiming to cross platforms by stretching a stick of the right length. A perfect stick placement doubles your score, adding an element of strategy and precision.
 
 ---
 
